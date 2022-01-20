@@ -1,5 +1,5 @@
 {
-  "name": "satoroswap",
+  "name": "politiswap",
   "timestamp": "2021-07-05T15:41:29.665Z",
   "version": {
     "major": 1,
@@ -7,16 +7,16 @@
     "patch": 2
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
-  "keywords": ["satoroswap", "default"],
+  "logoURI": "https://raw.githubusercontent.com/blockinator/tokenlist/master/asset/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
+  "keywords": ["politiswap", "default"],
   "tokens": [
   {
-      "name": "Satoro Token",
-      "symbol": "SATORO",
-      "address": "0x842294c980a6f29ca721932c77f97a56f33d24ba",
+      "name": "VOTE TOKEN",
+      "symbol": "VOTE",
+      "address": "0x634D10911a59651E8344691c35d6a4545f7934A1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0x842294c980a6f29ca721932c77f97a56f33d24ba/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/blockinator/tokenlist/master/asset/0x634D10911a59651E8344691c35d6a4545f7934A1/logo.png"
   },
   {
       "name": "aDGNZ Token",
@@ -24,7 +24,7 @@
       "address": "0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/blockinator/tokenlist/master/asset/0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7/logo.png"
     },
     {
       "name": "DGNZ Token",
